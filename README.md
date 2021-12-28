@@ -1,5 +1,6 @@
 # mergesort-scheme
 Merge sort function in scheme.
+Author: Lindy Bustabad
 
 Odd: creates a list of the odd numbered elements in the list.
 Event: creates a list of the even numbered elements in the list.
