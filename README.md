@@ -1,5 +1,5 @@
-# mergesort-scheme
 Merge sort function in scheme.
+
 Author: Lindy Bustabad
 
 Odd: creates a list of the odd numbered elements in the list.
